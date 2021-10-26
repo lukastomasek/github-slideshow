@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our slide!"
 ---
 
-Your text
+This is github lukastomasek slide
 Use the left arrow to go back!
