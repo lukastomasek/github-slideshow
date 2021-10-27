@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide!"
+title: "Welcome to Lukas Tomasek's slide!"
 ---
 
 This is github lukastomasek slide
